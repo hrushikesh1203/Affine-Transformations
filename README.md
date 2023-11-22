@@ -1,2 +1,2 @@
 # Affine-Transformations
-Repository tell about hot to implement affine transformations
+Repository tells about how to implement affine transformations
